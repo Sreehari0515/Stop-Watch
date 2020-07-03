@@ -1,0 +1,42 @@
+.watchWrapper
+{
+    background-color: chocolate;
+    text-align: center;
+    border: 1px solid black;
+    padding-bottom: 12px;
+    
+}
+#btnStart
+{
+    background-color: darkgoldenrod;
+}
+#btnStop
+{
+    background-color: darkgray;
+}
+#btnReset
+{
+    background-color: darkolivegreen;
+}
+.session
+{
+    padding-top: 15px;
+    text-align: center;
+    color: black solid;
+    font-weight: bold;
+}
+#lastsession
+{
+  
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    list-style-type: none;
+}
+body
+{
+    background-color: chocolate;
+}
+ul{
+    text-align: center;
+}
